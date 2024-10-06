@@ -5,12 +5,244 @@
     <link>http://localhost:1313/publication_types/article-journal/</link>
       <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Article-Journal</title>
       <link>http://localhost:1313/publication_types/article-journal/</link>
     </image>
+    
+    <item>
+      <title>Proceedings of the 12th Knowledge Capture Conference 2023</title>
+      <link>http://localhost:1313/publication/venable-proceedings-2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/venable-proceedings-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralized Bayesian learning with Metropolis-adjusted Hamiltonian Monte Carlo</title>
+      <link>http://localhost:1313/publication/kungurtsev-decentralized-2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kungurtsev-decentralized-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing classifier overconfidence against adversaries through graph algorithms</title>
+      <link>http://localhost:1313/publication/teixeira-reducing-2023/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/teixeira-reducing-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Resilience in Mobile Edge Computing Under Processing Uncertainty</title>
+      <link>http://localhost:1313/publication/li-enhancing-2023/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-enhancing-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximizing Energy Efficiency With Channel Uncertainty Under Mutual Interference</title>
+      <link>http://localhost:1313/publication/li-maximizing-2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-maximizing-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>URSABench: A System for Comprehensive Benchmarking of Bayesian Deep Neural Network Models and Inference Methods</title>
+      <link>http://localhost:1313/publication/vadera-ursabench-2022/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vadera-ursabench-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Parameter Sparsity on Stochastic Gradient MCMC Methods for Bayesian Deep Learning</title>
+      <link>http://localhost:1313/publication/vadera-impact-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vadera-impact-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Achieving Real-Time Spectrum Sharing in 5G Underlay Coexistence with Channel Uncertainty</title>
+      <link>http://localhost:1313/publication/li-achieving-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-achieving-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks</title>
+      <link>http://localhost:1313/publication/dong-edits-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dong-edits-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph neural networks with adaptive frequency response filter</title>
+      <link>http://localhost:1313/publication/dong-graph-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dong-graph-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximize Spectrum Efficiency in Underlay Coexistence With Channel Uncertainty</title>
+      <link>http://localhost:1313/publication/li-maximize-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-maximize-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimizing AoI in a 5G-Based IoT Network Under Varying Channel Conditions</title>
+      <link>http://localhost:1313/publication/li-minimizing-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-minimizing-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On DoF Conservation in MIMO Interference Cancellation based on Signal Strength in the Eigenspace</title>
+      <link>http://localhost:1313/publication/chen-dof-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chen-dof-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trinity: Trust, Resilience and Interpretability of Machine Learning Models</title>
+      <link>http://localhost:1313/publication/jha-trinity-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jha-trinity-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Distillation of Bayesian Neural Networks</title>
+      <link>http://localhost:1313/publication/shukla-adversarial-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/shukla-adversarial-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the Adversarial Robustness of Monte Carlo and Distillation Methods for Deep Bayesian Neural Network Classification</title>
+      <link>http://localhost:1313/publication/vadera-assessing-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vadera-assessing-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Better call surrogates: A hybrid evolutionary algorithm for hyperparameter optimization</title>
+      <link>http://localhost:1313/publication/biswas-better-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/biswas-better-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring performance trade-offs in tactical edge networks</title>
+      <link>http://localhost:1313/publication/sridharan-exploring-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sridharan-exploring-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ursabench: Comprehensive benchmarking of approximate bayesian inference methods for deep neural networks</title>
+      <link>http://localhost:1313/publication/vadera-ursabench-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vadera-ursabench-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are Graph Neural Networks Miscalibrated?</title>
+      <link>http://localhost:1313/publication/teixeira-are-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/teixeira-are-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attribution-based confidence metric for deep neural networks</title>
+      <link>http://localhost:1313/publication/jha-attribution-based-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jha-attribution-based-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attribution-driven causal analysis for detection of adversarial examples</title>
+      <link>http://localhost:1313/publication/jha-attribution-driven-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jha-attribution-driven-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertain context: Uncertainty quantification in machine learning</title>
+      <link>http://localhost:1313/publication/jalaian-uncertain-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jalaian-uncertain-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmable control plane for mission critical wireless networks</title>
+      <link>http://localhost:1313/publication/dasari-programmable-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dasari-programmable-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reaping the benefits of dynamic TDD in massive MIMO</title>
+      <link>http://localhost:1313/publication/huang-reaping-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/huang-reaping-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical Report Coping Uncertainty in Coexistence via Exploitation of Interference Threshold Violation</title>
+      <link>http://localhost:1313/publication/li-technical-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-technical-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of full duplex scheduling on end-to-end throughput in multi-hop wireless networks</title>
+      <link>http://localhost:1313/publication/qin-impact-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/qin-impact-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the integration of SIC and MIMO DoF for interference cancellation in wireless networks</title>
+      <link>http://localhost:1313/publication/jalaian-integration-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jalaian-integration-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Online Admission Control Algorithm for Dynamic Traffic in Underlay Coexistence Paradigm</title>
+      <link>http://localhost:1313/publication/yuan-online-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yuan-online-2016/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example journal article</title>
@@ -31,6 +263,62 @@
 &lt;/div&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>An optimal scheduling framework for concurrent transmissions in wireless cognitive radio networks</title>
+      <link>http://localhost:1313/publication/jalaian-optimal-2015/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jalaian-optimal-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cooperative spectrum sensing in cognitive wireless sensor networks</title>
+      <link>http://localhost:1313/publication/zhang-cooperative-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-cooperative-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Spectrum Access Algorithm Based on Game Theory in Cognitive Radio Networks</title>
+      <link>http://localhost:1313/publication/liu-dynamic-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liu-dynamic-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ERDT: Energy-efficient reliable decision transmission for intelligent cooperative spectrum sensing in industrial IoT</title>
+      <link>http://localhost:1313/publication/zhu-erdt-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhu-erdt-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PaperIO: A 3D Interface towards the Internet of Embedded Paper-Craft</title>
+      <link>http://localhost:1313/publication/zhu-paperio-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhu-paperio-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Sonogram Images of Thyroid Gland Based on Wavelet Transform</title>
+      <link>http://localhost:1313/publication/bastanfard-analysis-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bastanfard-analysis-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Sonographic Images of Breast</title>
+      <link>http://localhost:1313/publication/bastanfard-analysis-2007-1/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bastanfard-analysis-2007-1/</guid>
+      <description></description>
     </item>
     
   </channel>
