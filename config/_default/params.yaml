@@ -35,12 +35,18 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Dr. Brian Jalaian's Website"
+        # Shop a call-to-action button in the top right?
+    # button:
+    #   enable: true
+    #   text: "Get Started"
+    #   url: "https://hugoblox.com/templates/"
+
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Dr. Brian Jalaian. All rights reserved. This website and its content are the intellectual property of Brian Jalaian.'
     license:
       enable: true
       allow_derivatives: false

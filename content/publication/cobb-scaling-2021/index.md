@@ -14,6 +14,8 @@ publication_short: In *UAI 2021*
 
 abstract: Hamiltonian Monte Carlo (HMC) is a Markov chain Monte Carlo (MCMC) approach that exhibits favourable exploration properties in high-dimensional models such as neural networks. Unfortunately, HMC has limited use in large-data regimes and little work has explored suitable approaches that aim to preserve the entire Hamiltonian. In our work, we introduce a new symmetric integration scheme for split HMC that does not rely on stochastic gradients. We show that our new formulation is more efficient than previous approaches and is easy to implement with a single GPU. As a result, we are able to perform full HMC over common deep learning architectures using entire data sets. In addition, when we compare with stochastic gradient MCMC, we show that our method achieves better performance in both accuracy and uncertainty quantification. Our approach demonstrates HMC as a feasible option when considering inference schemes for large-scale machine learning problems.
 
+summary: We introduce a new symmetric integration scheme for split Hamiltonian Monte Carlo (HMC) that enables efficient inference for Bayesian neural networks on large datasets. Our method outperforms stochastic gradient MCMC in accuracy and uncertainty quantification, demonstrating HMC as a viable option for large-scale machine learning problems.
+
 tags:
   - Bayesian Neural Networks
   - Hamiltonian Monte Carlo

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Hugo Academic CV Theme</title>
+    <title>Publications | Dr. Brian Jalaian&#39;s Website</title>
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
@@ -17,14 +17,6 @@
       <link>http://localhost:1313/publication/bizzarri-synergistic-2024/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/bizzarri-synergistic-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Proceedings of the 12th Knowledge Capture Conference 2023</title>
-      <link>http://localhost:1313/publication/venable-proceedings-2023/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/venable-proceedings-2023/</guid>
       <description></description>
     </item>
     
